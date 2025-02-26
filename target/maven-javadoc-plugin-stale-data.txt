@@ -10,14 +10,14 @@
 -source
 '17'
 -sourcepath
-'C:/Users/Danny/Desktop/MisCosas/DAW2/Despliegue/Tema 4/llibreriaweb/src/main/java'
+'C:/Users/Danny/Desktop/MisCosas/DAW2/Despliegue/Tema 4/Actividad 1/llibreriaweb/src/main/java'
 -author
 -bottom
 'Copyright &#169; 2025. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'C:/Users/Danny/Desktop/MisCosas/DAW2/Despliegue/Tema 4/llibreriaweb/target/reports/apidocs'
+'C:/Users/Danny/Desktop/MisCosas/DAW2/Despliegue/Tema 4/Actividad 1/llibreriaweb/target/reports/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
@@ -70,19 +70,19 @@ C:\Users\Danny\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar = 
 C:\Users\Danny\.m2\repository\com\github\ben-manes\caffeine\caffeine\2.9.3\caffeine-2.9.3.jar = 1733579287274
 C:\Users\Danny\.m2\repository\com\google\errorprone\error_prone_annotations\2.10.0\error_prone_annotations-2.10.0.jar = 1733579286132
 C:\Users\Danny\.m2\repository\org\checkerframework\checker-qual\3.23.0\checker-qual-3.23.0.jar = 1733579286746
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\src\main\java = 1735902374389
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\allclasses-index.html = 1735906361843
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\allpackages-index.html = 1735906361846
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\element-list = 1735906361690
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\help-doc.html = 1735906361888
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\index-all.html = 1735906361876
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\index.html = 1735906361825
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\member-search-index.js = 1735906361853
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\module-search-index.js = 1735906361848
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\overview-summary.html = 1735906361883
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\overview-tree.html = 1735906361812
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\package-search-index.js = 1735906361849
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\search.html = 1735906361880
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\serialized-form.html = 1735906361737
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\tag-search-index.js = 1735906361854
-C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\llibreriaweb\target\reports\apidocs\type-search-index.js = 1735906361850
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\src\main\java = 1735902374389
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\allclasses-index.html = 1740585302584
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\allpackages-index.html = 1740585302587
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\element-list = 1740585302468
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\help-doc.html = 1740585302621
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\index-all.html = 1740585302612
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\index.html = 1740585302570
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\member-search-index.js = 1740585302592
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\module-search-index.js = 1740585302589
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\overview-summary.html = 1740585302617
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\overview-tree.html = 1740585302565
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\package-search-index.js = 1740585302590
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\search.html = 1740585302614
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\serialized-form.html = 1740585302505
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\tag-search-index.js = 1740585302593
+C:\Users\Danny\Desktop\MisCosas\DAW2\Despliegue\Tema 4\Actividad 1\llibreriaweb\target\reports\apidocs\type-search-index.js = 1740585302591
