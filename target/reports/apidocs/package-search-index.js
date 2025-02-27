@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.llibreriaweb"},{"l":"com.mycompany.llibreriaweb.resources"}];updateSearchResults();
